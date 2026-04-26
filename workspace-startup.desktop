@@ -1,0 +1,8 @@
+[Desktop Entry]
+Type=Application
+Name=Workspace Startup
+Comment=Open 4 workspaces: browser, terminal, browser, browser
+Exec=/home/adam/code/scripts/workspace-startup.sh
+Icon=preferences-desktop-display
+Terminal=false
+Categories=Utility;
